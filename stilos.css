@@ -1,0 +1,86 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.li{
+    display: inline;
+    padding: 20px;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0% auto;
+    justify-content: center;
+    flex-direction: row;
+}
+.galery2{
+    background-position: center; 
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(241, 240, 240);
+}
+.img1{
+    background-position: center; 
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    margin: 0px 0px;
+    padding: 0px 0px;
+   text-align: center;
+}
+.h1{
+    position: absolute center;
+   color: white;
+    font-size: 120px;
+}
+.fotoperfil{
+    background-position: center; 
+    background-size: cover; 
+    border-radius: 50%; 
+    width: 300px; 
+    height: 300px; 
+}
+.hashtag{
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+
+}
+.segundo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    
+}
+.tabla{
+    background-color: pink;
+    border-width: 1px;
+    border-color: bisque;
+    padding: 20px;
+    justify-content: center;
+
+}
+.texto1{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+}
+.espaciostabla1{
+    font-weight: 800;
+}
+.cosas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 800;
+    padding: 6px;
+}
