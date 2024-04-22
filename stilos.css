@@ -30,8 +30,6 @@
     background-size: cover;
     width: 100%;
     height: 500px;
-    margin: 0px 0px;
-    padding: 0px 0px;
    text-align: center;
 }
 .h1{
@@ -77,6 +75,10 @@
 }
 .espaciostabla1{
     font-weight: 800;
+    padding: 3px;
+}
+.espaciostabla{
+    padding: 3px;
 }
 .cosas{
     display: flex;
