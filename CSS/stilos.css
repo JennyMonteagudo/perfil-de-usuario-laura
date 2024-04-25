@@ -18,14 +18,7 @@
     justify-content: center;
     flex-direction: row;
 }
-.galery2{
-    background-position: center; 
-    background-size: cover;
-    width: 500px;
-    height: 500px;
-    background-color: rgb(241, 240, 240);
-}
-.img1{
+.imgheader{
     background-position: center; 
     background-size: cover;
     width: 100%;
@@ -52,7 +45,7 @@
     margin: 20px;
 
 }
-.segundo{
+.contenedorinfo{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,10 +73,17 @@
 .espaciostabla{
     padding: 3px;
 }
-.cosas{
+.atributos{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     font-weight: 800;
     padding: 6px;
+}
+.galery2{
+    background-position: center; 
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(241, 240, 240);
 }
